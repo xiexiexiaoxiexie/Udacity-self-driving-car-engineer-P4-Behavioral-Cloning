@@ -2,6 +2,41 @@
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+扩展阅读：
+
+1.使用NVIDIA’s model的一个解决方案，其中包括数据增强：
+https://chatbotslife.com/learning-human-driving-behavior-using-nvidias-neural-network-model-and-image-augmentation-80399360efee
+
+2.batch_size讨论：
+https://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent
+
+3.另一个解决方案，包含光线增强：
+https://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent
+
+4.NVIDIA：End-to-End Deep Learning for Self-Driving Cars
+https://devblogs.nvidia.com/deep-learning-self-driving-cars/
+
+5.怎么使用生成器：
+https://stackoverflow.com/questions/7883962/where-to-use-yield-in-python-best
+
+6.ELU激活函数：
+https://arxiv.org/pdf/1511.07289v1.pdf
+
+7.keras其他激活函数：
+https://keras.io/layers/advanced-activations/
+
+8.efficient backpropagation
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+
+9.Batch Normalization批标准化:
+https://arxiv.org/abs/1502.03167
+https://www.cnblogs.com/guoyaohua/p/8724433.html
+
+10.dropout:
+http://120.52.51.13/www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+
+11.关于各种优化器：
+http://ruder.io/optimizing-gradient-descent/index.html
 Overview
 ---
 This repository contains starting files for the Behavioral Cloning Project.
