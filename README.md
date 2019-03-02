@@ -2,7 +2,7 @@
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-扩展阅读：
+### 扩展阅读：
 
 1.使用NVIDIA’s model的一个解决方案，其中包括数据增强：
 https://chatbotslife.com/learning-human-driving-behavior-using-nvidias-neural-network-model-and-image-augmentation-80399360efee
@@ -37,6 +37,12 @@ http://120.52.51.13/www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
 
 11.关于各种优化器：
 http://ruder.io/optimizing-gradient-descent/index.html
+
+### 项目简介
+
+在模拟器上收集照片后使用Keras训练深度神经网络实现车辆的自动驾驶
+
+
 Overview
 ---
 This repository contains starting files for the Behavioral Cloning Project.
